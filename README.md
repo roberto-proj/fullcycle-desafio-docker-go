@@ -1,1 +1,0 @@
-# fullcycle-desafio-docker-go
